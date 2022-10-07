@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32819.101
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Module11.VoiceTexterBot", "Module11.VoiceTexterBot\Module11.VoiceTexterBot.csproj", "{3610B022-E3F4-4134-96CF-9D764A5A5624}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3610B022-E3F4-4134-96CF-9D764A5A5624}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3610B022-E3F4-4134-96CF-9D764A5A5624}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3610B022-E3F4-4134-96CF-9D764A5A5624}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3610B022-E3F4-4134-96CF-9D764A5A5624}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4655AE3F-66E2-488F-9ACF-933BB207BC7A}
+	EndGlobalSection
+EndGlobal
